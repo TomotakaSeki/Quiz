@@ -1,0 +1,39 @@
+.pagebody {
+    padding: 0 30px;
+	text-align: center;
+}
+h1 {
+	font-size: 22pt;
+}
+.question,p{
+	text-align: left;
+}
+.yes-btn {
+	width: 100px;
+	margin: 10px 5px;
+	background-color: #eb482f;
+}
+.no-btn {
+	width: 100px;
+	margin: 10px 5px;
+    background-color: #2f74eb;
+}
+.retry-btn{
+	width: 80%;
+	margin: 10px;
+}
+.correct{
+    text-align: center;
+    color: #eb482f;
+}
+.incorrect{
+    text-align: center;
+    color: #2f74eb;
+}
+.foot-btn{
+    width: 70px;
+    margin: 10px 0 10px 25px;
+    background-color: #999999;
+    font-size: 11px;
+    text-align: center;
+}
